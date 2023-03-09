@@ -6,7 +6,7 @@ Projeto SateliteOS
     https://github.com/PedroAlvesTFX/Aerospace/tree/main/SateliteOS
 
 Projeto Altimetro Wifi
-    https://github.com/PedroAlvesTFX/Aerospace/tree/main/SateliteOS
+    https://github.com/PedroAlvesTFX/Aerospace/tree/main/Altimeter-wifi-v1
     
 Projeto Altimetro MAU
     https://github.com/DeMarco/MAU-1.0
